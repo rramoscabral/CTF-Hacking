@@ -21,17 +21,17 @@ There are several different challenges:
 ## Operation Systems
 
 
-| Operating System | Distro |
-|---|---|
-| [Android Tamer](https://androidtamer.com/) | Debian |
-| [BackBox](https://backbox.org/) | Ubuntu|
-| [BlackArch Linux](https://blackarch.org/) | Arch Linux |
-| [Fedora Security Lab](https://labs.fedoraproject.org/security/) | Fedora |
-| [Kali Linux](https://www.kali.org/)| Debian |
-| [Parrot Security OS](https://www.parrotsec.org/) | Debian|
-| [Pentoo](http://www.pentoo.ch/) | Gentoo|
-| [URIX OS](http://urix.us/) | openSUSE |
-| [Wifislax](http://www.wifislax.com/) | Slackware|
+| Operating System | Distro | Description |
+|---|---|---|
+| [Android Tamer](https://androidtamer.com/) | Debian | For Android Security professionals to work on large array of android security related task’s ranging from Malware Analysis, Penetration Testing and Reverse Engineering.|
+| [BackBox](https://backbox.org/) | Ubuntu| It is for penetration testers and security researchers.  It is a Free Open Source Community Project with the aim of promoting the culture of security in IT environment and give its contribution to make it better and safer.|
+| [BlackArch Linux](https://blackarch.org/) | Arch Linux | It is for penetration testers and security researchers.|
+| [Fedora Security Lab](https://labs.fedoraproject.org/security/) | Fedora | Provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies. |
+| [Kali Linux](https://www.kali.org/)| Debian | It is an open-source Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
+| [Parrot Security OS](https://www.parrotsec.org/) | Debian| Parrot is a worldwide community of developers and security specialists that work together to build a shared framework of tools to make their job easier, standardized and more reliable and secure. |
+| [Pentoo](http://www.pentoo.ch/) | Gentoo | It is designed for penetration testing and security assessment.|
+| [URIX OS](http://urix.us/) | openSUSE | It is the sucessor of NetSecL OS also know as ISlack. |
+| [Wifislax](http://www.wifislax.com/) | Slackware | It is alinux live cd designed by www.seguridadwireless.net and is adapted for wireless. |
 
 <br>
 
