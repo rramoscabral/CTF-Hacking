@@ -8,7 +8,7 @@ CTFs are information security competitions in conferences or events.
 
 ## Types of Challenges
 
-Teher are several different challenges:
+There are several different challenges:
  - **Cryptography** Can be "real world" scenarios about encryption (base64, roman cypher, RSA, etc) ransomware and others.
  - **Exploitation** Basicly using exploit like SQL injection, buffer overflow, string format, etc.
  - **Penetration Testing Labs/Pwn** - Exploiting a servers.
