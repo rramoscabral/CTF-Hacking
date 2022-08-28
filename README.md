@@ -37,8 +37,28 @@ There are several different challenges:
 
 ## Tools
 
+<br>
+
+### Audio
 
 
+| Tool | Description |
+|--|--|
+| [Sonic Visualizer](https://www.sonicvisualiser.org/) | Open source music recording. |
+| [Audacity](https://www.audacityteam.org/) | Audio editor.|
+
+<br>
+
+### Converters
+
+
+| Tool | Description |
+|--|--|
+| [CyberChef](https://gchq.github.io/CyberChef/)  | The Cyber Swiss Army Knife, a web app for encryption, encoding, compression and data analysis. |
+| [Base64 decoder](https://www.base64decode.org/) | BASE64 Decode and Encode |
+| [Enconding tools](https://encoding.tools/) | Graphical utility for performing common encoding, decoding, and hashing procedures on text or binary data|
+
+<br>
 
 ### Files
 
@@ -56,6 +76,8 @@ There are several different challenges:
 | [Kroll Artifact Parser and Extractor (KAPE)](https://learn.duffandphelps.com/kape) |Triage program.|
 | [Magnet AXIOM](https://www.magnetforensics.com/downloadaxiom) | Artifact-centric DFIR tool.|
 | [Registry Dumper](http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html) | Dump your registry.|
+| [UsbRip](https://github.com/snovvcrash/usbrip) | Tracking history of USB events on GNU/Linux |
+
 
 <br>
 
@@ -114,7 +136,7 @@ There are several different challenges:
 | [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) | Return-oriented programming (ROP) |  Framework for ROP exploitation.|
 | [V0lt](https://github.com/P1kachu/v0lt) | | Security CTF Toolkit.|
 
-
+<br>
 
 ### Forensics
 
@@ -148,6 +170,15 @@ There are several different challenges:
 ### Penetration Testing/Pwn
 
 | Tool | Type |Description |
+|--|--|--| 
+| [JWT](https://jwt.io/) | | Decode, verify and generate JWT |
+
+
+<br>
+
+### Penetration Testing/Pwn
+
+| Tool | Type |Description |
 |--|--|--|  
 | [Bettercap](https://github.com/bettercap/bettercap) | Man in the Middle |Framework to perform MITM (Man in the Middle) attacks.|
 | [burp suite](https://portswigger.net/burp) | | Feature packed web penetration testing framework |
@@ -175,6 +206,16 @@ There are several different challenges:
 | [Zeek](https://www.zeek.org) | | An open-source network security monitor.|
 | [Zmap](https://zmap.io/) | | An open-source network scanner.|
 
+<br>
+
+### RSA
+
+| Tool | Type | Description |
+|--|--|--|  
+| [RSA tool](https://github.com/ius/rsatool)| | Calculate RSA and RSA-CRT parameters | 
+| [RSA CTF TOOL](https://github.com/Ganapati/RsaCtfTool) | | Retreive private key from weak public key and/or uncipher data | 
+| [Factorization website](https://www.alpertron.com.ar/ECM.HTM) | Integer factorization calculator | 
+| [Factor DB](http://www.factordb.com/index.php?) | | | 
 
 <br>
 
@@ -190,20 +231,20 @@ There are several different challenges:
 | [Binary Ninja](https://binary.ninja/) | | Binary analysis framework.|
 | [BinUtils](http://www.gnu.org/software/binutils/binutils.html) | | Collection of binary tools.|
 | [BinWalk](https://github.com/devttys0/binwalk) | | Analyze, reverse engineer, and extract firmware images.|
-| [Boomerang](https://github.com/BoomerangDecompiler/boomerang) | Decompilers | Decompile x86/SPARC/PowerPC/ST-20 binaries to C.|
+| [Boomerang Decompiler](https://github.com/BoomerangDecompiler/boomerang) | Decompilers | Decompile x86/SPARC/PowerPC/ST-20 binaries to C.|
 | [ctf_import](https://github.com/docileninja/ctf_import) | | run basic functions from stripped binaries cross platform.|
 | [cwe_checker](https://github.com/fkie-cad/cwe_checker) | | cwe_checker finds vulnerable patterns in binary executables.|
 | [demovfuscator](https://github.com/kirschju/demovfuscator) | | A work-in-progress deobfuscator for movfuscated binaries.|
 | [Detox](http://relentless-coding.org/projects/jsdetox/install) | JavaScript Deobfuscators | A Javascript malware analysis tool.|
 | [Flare VM](https://github.com/fireeye/flare-vm/) | Malware analysts | Based on Windows|
-| [Frida](https://github.com/frida/) | | Dynamic Code Injection.|
+| [Frida (C / C++ / C#)](https://github.com/frida/) | | Dynamic Code Injection.|
 | [GDB](https://www.gnu.org/software/gdb/) | | The GNU project debugger.|
 | [GEF](https://github.com/hugsy/gef) | | GDB plugin.|
-| [Ghidra](https://ghidra-sre.org/) | | Open Source suite of reverse engineering tools.  Similar to IDA Pro.|
-| [Hopper](http://www.hopperapp.com/) | | Reverse engineering tool (disassembler) for OSX and Linux.|
+| [Ghidra (C / C++ / C#)](https://ghidra-sre.org/) | | Open Source suite of reverse engineering tools.  Similar to IDA Pro.|
+| [Hopper (C / C++ / C#)](http://www.hopperapp.com/) | | Reverse engineering tool (disassembler) for OSX and Linux.|
 | [IDA Pro](https://www.hex-rays.com/products/ida/) | | Most used Reversing software.|
-| [Jadx](https://github.com/skylot/jadx) | Decompilers | Decompile Android files.|
-| [Java Decompilers](http://www.javadecompilers.com) | Decompilers | An online decompiler for Java and Android APKs.|
+| [Jadx (Java)](https://github.com/skylot/jadx) | Decompilers | Decompile Android files.|
+| [Java Decompilers (Java)](http://www.javadecompilers.com) | Decompilers | An online decompiler for Java and Android APKs.|
 | [Krakatau](https://github.com/Storyyeller/Krakatau) | Decompilers | Java decompiler and disassembler.|
 | [Objection](https://github.com/sensepost/objection) | | Runtime Mobile Exploration.|
 | [PEDA](https://github.com/longld/peda) | | GDB plugin (only python2.7).|
@@ -250,6 +291,7 @@ There are several different challenges:
 | [stegextract](https://github.com/evyatarmeged/stegextract) | Hidden text| Detect hidden files and text in images.|
 | [Steghide](http://steghide.sourceforge.net/) | | Hide data in various kind of images.|
 | [StegOnline](https://georgeom.net/StegOnline/upload) | Hidden data | Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits (open-source).|
+| [Stenography online](https://stylesuxx.github.io/steganography/) | | |
 | [stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) | Hidden text | Pass various filters over images to look for hidden text |
 | [Snow](https://sbmlabs.com/notes/snow_whitespace_steganography_tool) | Whitespace | A Whitespace Steganography Tool. |
 | [Zsteg](https://github.com/zed-0xff/zsteg/) | PNG/BMP |  PNG/BMP analysis.|
@@ -280,5 +322,8 @@ There are several different challenges:
 <br>
 
 
+
+### Windows Whitelist Directory
+- C:\Windows\System32\spool\drivers\color
 
 
